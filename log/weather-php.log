@@ -1,0 +1,10 @@
+[Tue Oct 25 08:54:28 2022] [::1]:36608 [200]: /
+[Tue Oct 25 08:54:28 2022] [::1]:36610 [200]: /location.js
+[Tue Oct 25 08:54:28 2022] [::1]:36612 [200]: /client.min.js
+[Tue Oct 25 08:54:28 2022] [::1]:36614 [200]: /loc.js
+[Tue Oct 25 08:54:30 2022] [::1]:36616 [200]: /info.php
+[Tue Oct 25 08:54:51 2022] PHP Notice:  Undefined variable: acc in /home/kali/Desktop/tools/Storm-Breaker/template/weather/result.php on line 9
+[Tue Oct 25 08:54:51 2022] PHP Notice:  Undefined variable: alt in /home/kali/Desktop/tools/Storm-Breaker/template/weather/result.php on line 10
+[Tue Oct 25 08:54:51 2022] PHP Notice:  Undefined variable: dir in /home/kali/Desktop/tools/Storm-Breaker/template/weather/result.php on line 11
+[Tue Oct 25 08:54:51 2022] PHP Notice:  Undefined variable: spd in /home/kali/Desktop/tools/Storm-Breaker/template/weather/result.php on line 12
+[Tue Oct 25 08:54:51 2022] [::1]:36618 [200]: /result.php
