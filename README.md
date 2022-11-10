@@ -1,6 +1,9 @@
+# this is an old version of Storm-Breaker
+reference: https://github.com/ultrasecurity/Storm-Breaker
+
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="StormBreaker"></a>
+  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src="https://github.com/ultrasecurity/Storm-Breaker/raw/main/.imgs/1demo.png" alt="StormBreaker"></a>
 
 </h1>
 
@@ -20,7 +23,16 @@
   </a>
 </p>
 
-![demo](.imgs/Work0.png)
+### Installation On Kali Linux
+
+
+```bash
+$ git clone https://github.com/iawos9/Storm-Breaker
+$ cd Storm-Breaker
+$ sudo bash install.sh
+$ sudo python3 -m pip install -r requirements.txt
+$ sudo python3 st.py
+```
 
 ### Features:
 
@@ -40,43 +52,8 @@
 > We have deleted ngrok in the new version of storm breaker and entrusted the user with run and share the localhost. So please note that storm breaker runs a localhost for you and you have to start the ngrok on your intended port yourself.
 
 
-### Dependencies
-
-**`Storm Breaker`** requires following programs to run properly - 
-- `php`
-- `neofetch`
-- `python3`
-- `git`
-- `ngrok`
-
-![demo](.imgs/Work3.gif)
-
 ### Operating Systems Tested
 
 - Kali Linux 2022
 - macOS Big Sur / M1 
 
-### Installation On Kali Linux
-
-
-```bash
-$ git clone https://github.com/ultrasecurity/Storm-Breaker
-$ cd Storm-Breaker
-$ sudo bash install.sh
-$ sudo python3 -m pip install -r requirements.txt
-$ sudo python3 st.py
-```
-
-
-<h3 align="center">
-:: Workflow ::
-
-</h3>
-<p align="center">
-<img src=".imgs/Work1.png"/>
-  
-<br>
-<img src=".imgs/Work2.png"/>
-
- 
-</p>
